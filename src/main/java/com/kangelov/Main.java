@@ -5,14 +5,28 @@ public class Main {
     public static void main(String[] args) {
 
 
-        Car audi = new Car();
+/*        Vehicles audi = new Car();
         audi.travel(10);
 
-        Plain wizz = new Plain();
+        Vehicles wizz = new Plain();
         wizz.travel(9);
 
-        Train sofiaVarna = new Train();
-        sofiaVarna.travel(9);
+        Vehicles sofiaVarna = new Train();
+        sofiaVarna.travel(9);*/
+
+
+        Vehicles audi = new Car();
+        Vehicles wizz = new Plain();
+        Vehicles sofiaVarna = new Train();
+
+
+        audi.getPriceKilometer();
+        wizz.getPriceKilometer();
+        sofiaVarna.getPriceKilometer();
+
+        audi.travel(5);
+        wizz.travel(10);
+        sofiaVarna.travel(5);
 
     }
 }
