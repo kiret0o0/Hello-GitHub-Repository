@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0928e782-986e-4148-b035-071e8b4ab721" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kangelov/Travels.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/kangelov/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kangelov/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/kangelov/Plain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kangelov/Plain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/kangelov/Train.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kangelov/Train.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kangelov/Travels.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/kangelov/Vehicles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kangelov/Vehicles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/kangelov/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kangelov/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/kangelov/Plain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kangelov/Plain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/kangelov/Vehicles.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kangelov/Vehicles.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +96,7 @@
       <updated>1570530309558</updated>
       <workItem from="1570530311550" duration="59000" />
       <workItem from="1570530436707" duration="1508000" />
-      <workItem from="1570531966326" duration="4854000" />
+      <workItem from="1570531966326" duration="5506000" />
     </task>
     <servers />
   </component>
