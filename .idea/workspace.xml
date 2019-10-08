@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0928e782-986e-4148-b035-071e8b4ab721" name="Default Changelist" comment="" />
+    <list default="true" id="0928e782-986e-4148-b035-071e8b4ab721" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kangelov/Travels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kangelov/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kangelov/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kangelov/Plain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kangelov/Plain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kangelov/Train.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kangelov/Train.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kangelov/Vehicles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kangelov/Vehicles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kangelov/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kangelov/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kangelov/Plain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kangelov/Plain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kangelov/Vehicles.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kangelov/Vehicles.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +26,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -26,13 +41,20 @@
     </option>
   </component>
   <component name="ProjectId" id="1RuwVBdtENZ8seARLMxrV1xOdcz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.kangelov" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -78,11 +100,22 @@
       <updated>1570530309558</updated>
       <workItem from="1570530311550" duration="59000" />
       <workItem from="1570530436707" duration="1508000" />
-      <workItem from="1570531966326" duration="3614000" />
+      <workItem from="1570531966326" duration="4854000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

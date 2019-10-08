@@ -1,6 +1,6 @@
 package com.kangelov;
 
-public abstract class Vehicles {
+public abstract class Vehicles implements Travels {
 
     private int defaultPriceKilometer = 5;
 
@@ -22,5 +22,4 @@ public abstract class Vehicles {
         this.defaultPriceKilometer = defaultPriceKilometer;
     }
 
-    protected abstract int travel(int kilometers);
 }

@@ -7,7 +7,6 @@ public class Car extends Vehicles {
     }
 
 
-    @Override
     protected int travel(int kilometers){
         int sum = kilometers * getDefaultPriceKilometer();
         System.out.println("Car is traveling for: " + sum);
