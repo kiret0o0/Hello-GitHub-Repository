@@ -7,13 +7,6 @@ public abstract class Vehicles {
     public Vehicles() {
     }
 
-    public int travel(int priceForKilometer, int kilometers){
-        int sum = kilometers * priceForKilometer;
-        System.out.println("Travel is: " + sum);
-        return sum;
-    }
-
-
     public int getDefaultPriceKilometer() {
         return defaultPriceKilometer;
     }
